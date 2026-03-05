@@ -1,0 +1,1 @@
+console.log("🔹 This is where token compliance checks would run.");

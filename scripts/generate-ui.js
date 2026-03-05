@@ -1,0 +1,1 @@
+console.log("🔹 Codex AI would generate UI components here based on tokens + rules.");

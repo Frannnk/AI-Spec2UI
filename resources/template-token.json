@@ -1,0 +1,14 @@
+{
+  "color": {
+    "primary": { "value": "#0066FF", "type": "color" },
+    "secondary": { "value": "#00AA88", "type": "color" }
+  },
+  "spacing": {
+    "10": { "value": "10px", "type": "spacing" },
+    "20": { "value": "20px", "type": "spacing" }
+  },
+  "font": {
+    "body": { "value": "Inter,16px", "type": "typography" },
+    "heading": { "value": "Inter Bold,32px", "type": "typography" }
+  }
+}

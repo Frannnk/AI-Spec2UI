@@ -1,0 +1,11 @@
+name: AI Spec2UI
+version: 1.0
+description: Skill to convert design specifications (tokens & rules) into UI components using AI, strictly following design rules.
+input:
+  - tokens_file: path to design-tokens.tokens.json
+output:
+  - tokens_js: tokens/tokens.js
+  - tokens_css: tokens/tokens.css
+  - rules_md: rules/design-system.md
+  - generated_ui: generated-ui/
+  - storybook: storybook/
